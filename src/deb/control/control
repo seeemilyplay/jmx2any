@@ -3,7 +3,7 @@ Version: [[version]]
 Section: misc
 Priority: optional
 Architecture: all
-Depends: sun-java6-jre | sun-java6-sdk
+Depends: sun-java6-jre | sun-java6-sdk | openjdk-6-jre | openjdk-6-jdk
 Maintainer: Torsten Curdt <tcurdt@vafer.org>
 Description: push jmx values to various monitoring platforms
 Distribution: development
